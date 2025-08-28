@@ -12,11 +12,12 @@ The filter was implemented to analyze its effect on an input waveform, focusing 
 ### Circuit Schematic
 <img width="800" alt="Circuit Schematic" src="https://github.com/user-attachments/assets/a2249734-9019-48dc-8fec-6c1a81b01e6c" />
 
-### Simulation Results
-Original (Yellow) | Filtered (Blue) | Amplified (Green)  
-:----------------:|:---------------:|:-----------------:  
-![Output Waves](https://github.com/user-attachments/assets/21d3204f-86bb-49a5-9d5c-baf87cc00c60) |  
+### Simulation Result
+The graph below shows the function generator input (yellow), the filtered output (blue), and the amplified signal (green).  
+
+![Filtered Output](https://github.com/user-attachments/assets/21d3204f-86bb-49a5-9d5c-baf87cc00c60)
 
 ---
 
 📄 The repository includes the **Proteus project file** along with images of the simulation results for reference.
+
