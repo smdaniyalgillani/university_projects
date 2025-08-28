@@ -24,4 +24,3 @@ This repository serves as:
 ---
 
 📌 Each folder contains its own `README.md` for more details on the respective project/assignment.
-# university_projects
